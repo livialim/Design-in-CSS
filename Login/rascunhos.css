@@ -1,0 +1,33 @@
+/*<input type="text" name="" value=""> faz um retângulo para escrever*/
+
+/* placeholder="Username" o user fica apagadinho */
+
+/* <input type="submit" name="" value="Login"> faz o botão de login */
+
+/* background: linear-gradient(top, #191919 , transparent); deixa transparente*/
+
+/* A tag <form> é usada para criar um formulário HTML para entrada do usuário.
+
+O elemento <form> pode conter um ou mais dos seguintes elementos de formulário:
+<input>
+<textarea>
+<button>
+<select>
+<option>
+<optgroup>
+<fieldset>
+<label>
+<output> 
+*/
+
+/* placeholder não funciona no label apenas input com type*/
+
+/* <label for="vehicle1"> I have a bike </label><br> label é para colocar text fora do quadrado*/
+
+/* tanto o action quanto o class vão dentro do form*/
+
+/* border é para ficar sem margem escura*/
+
+/* para a senha ficar em bolinhas o type e placeholder precisam ser iguais */
+
+/* para ir para outra pagina o login precisa ser <input type="submit" name="" value="Login" class="submit"> */
